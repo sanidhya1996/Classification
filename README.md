@@ -133,6 +133,8 @@ pip install -r requirements.txt
 For any questions, suggestions, or collaboration opportunities, feel free to reach out:
 
 - **Email**: [sanidhyashekhar1996@gmail.com](mailto:sanidhyashekhar1996@gmail.com)
+        LinkedIn: linkedin.com/in/sanidhya-shekhar
+        GitHub: github.com/sanidhya1996
 
 ---
 
